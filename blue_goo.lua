@@ -1,3 +1,4 @@
+
 function eat_water(pos)
 	local is_grown = false
 	--cycles through all the nodes around the center node
